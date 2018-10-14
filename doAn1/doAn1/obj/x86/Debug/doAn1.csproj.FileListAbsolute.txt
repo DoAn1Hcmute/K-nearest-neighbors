@@ -7,3 +7,13 @@ C:\Documents and Settings\pc\Local Settings\Application Data\Temporary Projects\
 C:\Documents and Settings\pc\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Documents and Settings\pc\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
 C:\Documents and Settings\pc\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\pc\Desktop\doAn1\doAn1\bin\Debug\doAn1.exe
+C:\Documents and Settings\pc\Desktop\doAn1\doAn1\bin\Debug\doAn1.pdb
+C:\Documents and Settings\pc\Desktop\doAn1\doAn1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pc\Desktop\doAn1\doAn1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\pc\Desktop\doAn1\doAn1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\pc\Desktop\doAn1\doAn1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\pc\Desktop\doAn1\doAn1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\pc\Desktop\doAn1\doAn1\obj\x86\Debug\doAn1.exe
+C:\Documents and Settings\pc\Desktop\doAn1\doAn1\obj\x86\Debug\doAn1.pdb
+C:\Documents and Settings\pc\Desktop\doAn1\doAn1\obj\x86\Debug\WindowsFormsApplication1.Ve.resources

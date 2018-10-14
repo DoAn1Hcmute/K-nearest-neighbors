@@ -143,21 +143,29 @@ namespace WindowsFormsApplication1
 
         public void KhoiTao()
         {
-            int k = int.Parse( txtK.Text.ToString());
-            List<Diem> diem1 = new List<Diem>();
-            List<Diem> diem2 = new List<Diem>();
-            List<float> kcDiem1 = new List<float>();
-            List<float> kcDiem2 = new List<float>();
-            Diem diemMoi=new Diem(float.Parse(txtX.Text.ToString()),float.Parse(txtY.Text.ToString()));
-              for (int i = 0; i < diemPhanTu(txtX1); i++)
-            { diem1.Add(new Diem(0, 0)); kcDiem1.Add(0); }
-            for (int i = 0; i < diemPhanTu(txtX2); i++)
-            { diem2.Add(new Diem(0, 0)); kcDiem2.Add(0); }
-            chuyenDoi(diem1, txtX1, txtY1);
-            chuyenDoi(diem2, txtX2, txtY2);
-            tinhKhoangCach(kcDiem1, diem1, diemMoi);
-            tinhKhoangCach(kcDiem2, diem2, diemMoi);           
-            int thuoc = timMienGiaTri(kcDiem1, kcDiem2, k);
+            try
+            {
+                int k = int.Parse(txtK.Text.ToString());
+                List<Diem> diem1 = new List<Diem>();
+                List<Diem> diem2 = new List<Diem>();
+                List<float> kcDiem1 = new List<float>();
+                List<float> kcDiem2 = new List<float>();
+                Diem diemMoi = new Diem(float.Parse(txtX.Text.ToString()), float.Parse(txtY.Text.ToString()));
+                for (int i = 0; i < diemPhanTu(txtX1); i++)
+                { diem1.Add(new Diem(0, 0)); kcDiem1.Add(0); }
+                for (int i = 0; i < diemPhanTu(txtX2); i++)
+                { diem2.Add(new Diem(0, 0)); kcDiem2.Add(0); }
+                chuyenDoi(diem1, txtX1, txtY1);
+                chuyenDoi(diem2, txtX2, txtY2);
+                tinhKhoangCach(kcDiem1, diem1, diemMoi);
+                tinhKhoangCach(kcDiem2, diem2, diemMoi);
+                Ve ve = new Ve(diem1, diem2, diemMoi, timMienGiaTri(kcDiem1, kcDiem2, k));
+                ve.Show();
+            }
+            catch
+            {
+
+            }
         }
     }
 }
