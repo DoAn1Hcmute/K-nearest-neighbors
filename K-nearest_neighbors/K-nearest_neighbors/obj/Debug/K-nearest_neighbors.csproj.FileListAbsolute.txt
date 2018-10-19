@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\K-nearest_neighbors\K-nearest_neighbors\bin\Debug\K-nearest_neighbors.exe.config
+C:\Users\PC\Desktop\K-nearest_neighbors\K-nearest_neighbors\bin\Debug\K-nearest_neighbors.exe
+C:\Users\PC\Desktop\K-nearest_neighbors\K-nearest_neighbors\bin\Debug\K-nearest_neighbors.pdb
+C:\Users\PC\Desktop\K-nearest_neighbors\K-nearest_neighbors\obj\Debug\K-nearest_neighbors.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\K-nearest_neighbors\K-nearest_neighbors\obj\Debug\K_nearest_neighbors.Properties.Resources.resources
+C:\Users\PC\Desktop\K-nearest_neighbors\K-nearest_neighbors\obj\Debug\K-nearest_neighbors.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\K-nearest_neighbors\K-nearest_neighbors\obj\Debug\K-nearest_neighbors.exe
+C:\Users\PC\Desktop\K-nearest_neighbors\K-nearest_neighbors\obj\Debug\K-nearest_neighbors.pdb
+C:\Users\PC\Desktop\K-nearest_neighbors\K-nearest_neighbors\obj\Debug\K_nearest_neighbors.F1.resources
